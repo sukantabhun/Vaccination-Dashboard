@@ -1,0 +1,15 @@
+.graph-container {
+  width: 100%;
+  min-width: 1000px;
+  margin: auto;
+  background-color: #1c1c2b;
+  padding: 24px;
+  border-radius: 12px;
+  margin-bottom: 25px;
+}
+
+.graph-heading {
+  font-size: 22px;
+  margin-left: 14px;
+  color: #6c757d;
+}

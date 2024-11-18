@@ -1,0 +1,43 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  padding-left: 124px;
+  padding-right: 124px;
+  margin-left: auto;
+  margin-bottom: auto;
+  width: 100vw;
+  background-color: #161625;
+  color: #ffffff;
+  font-family: Roboto;
+  min-height: 100vh;
+}
+
+.logo {
+  width: 54px;
+  height: 54px;
+}
+
+.heading-container {
+  display: flex;
+  column-gap: 15px;
+  align-items: center;
+  font-size: 14px;
+  color: #2cc6c6;
+}
+
+.content-center {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.error-image {
+  width: 645px;
+  height: 645px;
+}
